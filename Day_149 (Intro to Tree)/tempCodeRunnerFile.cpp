@@ -1,0 +1,1 @@
+cout<<"Enter right child of "<<temp->data<<" ";
